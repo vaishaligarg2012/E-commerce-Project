@@ -1,0 +1,5 @@
+com\MVCStart\SpringMVC\App.class
+com\MVCStart\Daos\CategoryDaoImpl.class
+com\MVCStart\DBConfig\DBConfig.class
+com\MVCStart\Daos\CategoryDao.class
+com\MVCStart\Models\Category.class
